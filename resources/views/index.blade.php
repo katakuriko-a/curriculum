@@ -17,7 +17,7 @@
           <tr>
             <td>小林 空晏</td>
             <td>20</td>
-            <td>2001/9/21</td>
+            <td>2000/2/29</td>
             <td>suzuken@ggmail.com</td>
             <td>080-1234-5678</td>
             <td>PREMIUM</td>
