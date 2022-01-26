@@ -15,7 +15,7 @@
             <th>プラン名</th>
           </tr>
           <tr>
-            <td>鈴木 健司</td>
+            <td>小林 空晏</td>
             <td>20</td>
             <td>2001/9/21</td>
             <td>suzuken@ggmail.com</td>
